@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178088123232",
+    "project_id": "local-deal-app-fresh",
+    "storage_bucket": "local-deal-app-fresh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178088123232:android:16715d501a8adbe23cdc05",
+        "android_client_info": {
+          "package_name": "com.example.local_deal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQZF7F_MbE64Q9yFS1fp4r9CMeKX9DiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
