@@ -1,0 +1,33 @@
+name: local_deal_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.2.1
+  latlong2: ^0.9.0
+  cloud_firestore: ^4.17.0
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.16.0
+  firebase_storage: ^11.6.0
+  image_picker: ^1.1.0
+  google_sign_in: ^5.4.4
+  firebase_messaging: ^14.7.10
+  geolocator: ^11.0.0
+  permission_handler: ^11.3.0
+  cupertino_icons: ^1.0.8
+  flutter_local_notifications: ^17.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
